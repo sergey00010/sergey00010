@@ -18,7 +18,6 @@ I am a C++ Developer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjE
 - :seedling: Exploring Technical Content Writing.
 
 - :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/forcksv2)
-- 
 ***
 # :hammer_and_wrench: Languages and Tools :
 <div>
